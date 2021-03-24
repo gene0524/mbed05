@@ -67,7 +67,7 @@ int main()
 }
 */
 
-//Demo
+//For DEMO
 #include "mbed.h"
 #include "TextLCD.h"
 
